@@ -15,3 +15,7 @@ Styling and Fonts: The project utilizes the Roboto font from Google Fonts for a 
 This repository serves as a demonstration and starting point for developers interested in implementing a responsive sidebar menu with CSS. It can be used as a reference or as a foundation for further customization and integration into larger web projects.
 
 Feel free to explore the code and adapt it to your own needs. Contributions and improvements to the project are also welcome.
+
+![image](https://github.com/suman1406/CSS_Mini_Project/assets/119001618/ad663945-97e1-4234-8b44-96644b1dc353)
+
+![image](https://github.com/suman1406/CSS_Mini_Project/assets/119001618/1c056291-28c8-4c0a-bec9-370519b2bb06)
